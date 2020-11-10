@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1604869723,
-      "filename": "lineage-14.1-20201108-UNOFFICIAL-peregrine.zip",
-      "id": "e98211f10c9132c01fb4fb5688cffcaa",
-      "romtype": "UNOFFICIAL",
+      "datetime": 1605013066,
+      "filename": "lineage_peregrine-ota-260366e867.zip",
+      "id": "bf47e024a50b65900794b271ec33df88",
+      "romtype": "unofficial",
       "size": 358612992,
-      "url": "https://www.androidfilehost.com/?fid=10763459528675580158",
+      "url": "",
       "version": "14.1"
     }
   ]
