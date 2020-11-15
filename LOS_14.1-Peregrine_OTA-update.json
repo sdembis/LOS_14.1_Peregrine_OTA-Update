@@ -2,11 +2,11 @@
   "response": [
     {
       "datetime": 1605367816,
-      "filename": "lineage-14.1-20201114-UNOFFICIAL-peregrine.zip",
-      "id": "00c18f4749e2eb9a0c4c6fe01f2c0d2f",
+      "filename": "signed-ota_update.zip",
+      "id": "fa0e1cb2370c3d8e9505bbcb279c05cc",
       "romtype": "unofficial",
-      "size": 358612992,
-      "url": "https://mor1.androidfilehost.com/dl/dG0FEFsrR35bJ_gKizD3Bg/1605550063/10763459528675583932/lineage-14.1-20201114-UNOFFICIAL-peregrine.zip?",
+      "size": 328300000,
+      "url": "https://www.androidfilehost.com/?fid=10763459528675584726",
       "version": "14.1"
     }
   ]
